@@ -24,8 +24,8 @@
             zoom: 12,
             bearing: 29,
             maxBounds: [
-                [-74.119, 40.654],
-                [-73.704, 40.916],
+                [-74.505,40.4093],
+                [-73.546,41.031],
             ],
             attributionControl: false,
             style: "mapbox://styles/mapbox/light-v10",
